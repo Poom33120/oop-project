@@ -7,6 +7,6 @@
 [pygame/stremlit]
 - application description:
 
-*presentation: [slide/canva/etc..] link [public/ubu]
+*presentation: 
 * video: link [public/ubu]
 * xoxoxo
